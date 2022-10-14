@@ -140,18 +140,3 @@ I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passio
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-remi-maigrot/README.md at master · remi-maigrot / remi-maigrot

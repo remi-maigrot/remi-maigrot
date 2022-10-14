@@ -10,7 +10,9 @@ Issues
 
 ### Glad to see you here! &nbsp;
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Currently a second year student at Epitech Technology to obtain the diploma of expert in information technology.
+I am passionate about web technologies.
+I have realized many projects and I will be happy to realize your project!
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 

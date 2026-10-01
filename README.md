@@ -1,62 +1,33 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-## Hey 👋, I'm [Rémi MAIGROT!](https://github.com/remi-maigrot/)
+# Hi, I'm Rémi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9mi-maigrot-a6075a232/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://remi-maigrot.github.io/)
-[![Malt Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.malt.fr/profile/remimaigrot)
+**AI Engineer & Full-Stack Software Engineer** · LLM · RAG · AI Agents · Next.js · Python
 
-### Glad to see you here! &nbsp;
+I design and build AI-powered products end to end, from idea to production: LLM/RAG pipelines, AI agents, web and mobile apps, plus technical SEO and AI-driven content automation.
 
-Currently a second year student at Epitech Technology to obtain the diploma of expert in information technology.
-I am passionate about web technologies.
-I have realized many projects and I will be happy to realize your project!
+🌍 **Open to full-remote roles and freelance missions, worldwide.**
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+[Portfolio](https://remi-maigrot.vercel.app) · [LinkedIn](https://www.linkedin.com/in/remi-maigrot) · [Email](mailto:remi.maigrot10@gmail.com)
 
-### Talking about Personal Stuffs:
+---
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/remi-maigrot).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: remi.maigrot10@gmail.com.
+### 🚀 What I've built
 
-### My Absolute Favorites:
+- **Blaiz** · co-founded a no-code platform that lets SMBs create and deploy AI agents (Next.js, Supabase, OpenAI/Anthropic APIs, RAG) → [blaiz.eu](https://blaiz.eu)
+- **AI SEO content engine** · Payload CMS + LLM pipeline that auto-publishes 20 SEO pieces every week, with automated Semrush optimization and a weekly report (built at RGPD START)
+- **Speaker** · AI speech-synthesis tool with voice cloning and emotion control
+- **Freelance** · Guildex (homeowners ↔ construction pros platform), SnapyRex (iOS/Android photo-challenge app), born-to-smile.fr (dental practice website)
+- **Macro quant trading** · systematic strategies on US markets, built on specialized "brains" combining decorrelated edges (private)
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 🍕 &nbsp; meetups & tech events.
+> Most of my professional work lives in private repositories. Happy to walk you through it on a call.
 
-### Languages and Tools:
+### 🛠️ Stack
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+- **AI & LLMs:** OpenAI & Anthropic APIs · RAG · AI agents · MCP · embeddings · pgvector · LangSmith / Langfuse · Claude Code
+- **Languages:** Python · TypeScript · JavaScript · C / C++
+- **Web:** Next.js · React · Node.js · Tailwind CSS · React Native · Django
+- **Data & Cloud:** PostgreSQL · Supabase · Vercel · Docker · CI/CD
+- **SEO:** technical & on-page SEO · Payload CMS · Semrush
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+### 🎓 Background
 
-### Freelance projects:
-
-🎓 - En formation à Epitech Bordeaux, Bac +5 Titre d’Expert en technologie de l'information
-🎯 - Vous accompagne dans vos objectifs
-⚖️ - Équilibre efficacité / sécurité
-🚀 - En constante évolution
-👨‍💻 - Passionné par les nouvelles technologies
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+Epitech, Master's degree in Software Engineering (RNCP Level 7) · one year of MSc studies in AI at Jönköping University, Sweden.

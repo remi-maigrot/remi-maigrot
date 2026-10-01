@@ -2,6 +2,8 @@
 
 **AI Engineer & Full-Stack Software Engineer** · LLM · RAG · AI Agents · Next.js · Python
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 I design and build AI-powered products end to end, from idea to production: LLM/RAG pipelines, AI agents, web and mobile apps, plus technical SEO and AI-driven content automation.
 
 🌍 **Open to full-remote roles and freelance missions, worldwide.**

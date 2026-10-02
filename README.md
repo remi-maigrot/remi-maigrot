@@ -2,8 +2,6 @@
 
 **AI Engineer & Full-Stack Software Engineer** · LLM · RAG · AI Agents · Next.js · Python
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 I design and build AI-powered products end to end, from idea to production: LLM/RAG pipelines, AI agents, web and mobile apps, plus technical SEO and AI-driven content automation.
 
 🌍 **Open to full-remote roles and freelance missions, worldwide.**
@@ -15,6 +13,8 @@ I design and build AI-powered products end to end, from idea to production: LLM/
 ### 🚀 What I've built
 
 - **Blaiz** · co-founded a no-code platform that lets SMBs create and deploy AI agents (Next.js, Supabase, OpenAI/Anthropic APIs, RAG) → [blaiz.eu](https://blaiz.eu)
+- **Formagold** · Head of Product & Lead Developer of a SaaS marketplace for online-business courses: back end, CMS, Stripe payments, SEO (#1 on Google) and growth → [formagold.fr](https://formagold.fr)
+- **Old Money Stockholm** · co-founded a fashion e-commerce brand on Shopify: theme code, SEO (#1 on Google), Google/Meta/TikTok Ads and organic social → [old-money-stockholm.fr](https://old-money-stockholm.fr)
 - **AI SEO content engine** · Payload CMS + LLM pipeline that auto-publishes 20 SEO pieces every week, with automated Semrush optimization and a weekly report (built at RGPD START)
 - **Speaker** · AI speech-synthesis tool with voice cloning and emotion control
 - **Freelance** · Guildex (homeowners ↔ construction pros platform), SnapyRex (iOS/Android photo-challenge app), born-to-smile.fr (dental practice website)

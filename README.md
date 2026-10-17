@@ -19,14 +19,15 @@ I design and build AI-powered products end to end, from idea to production: LLM/
 - **Speaker** · AI speech-synthesis tool with voice cloning and emotion control
 - **Freelance** · Guildex (homeowners ↔ construction pros platform), SnapyRex (iOS/Android photo-challenge app), born-to-smile.fr (dental practice website)
 - **Macro quant trading** · systematic strategies on US markets, built on specialized "brains" combining decorrelated edges (private)
+- **SEO Analytics Dashboard** · Web application that centralizes the key insights from Google Search Console, Google Analytics and Bing Webmaster Tools into a single dashboard
 
 > Most of my professional work lives in private repositories. Happy to walk you through it on a call.
 
 ### 🛠️ Stack
 
 - **AI & LLMs:** OpenAI & Anthropic APIs · RAG · AI agents · MCP · embeddings · pgvector · LangSmith / Langfuse · Claude Code
-- **Languages:** Python · TypeScript · JavaScript · C / C++
-- **Web:** Next.js · React · Node.js · Tailwind CSS · React Native · Django
+- **Languages:** Python · TypeScript · JavaScript · C / C++ · Java
+- **Web:** Next.js · React · Node.js · Tailwind CSS · React Native · Django · Angular
 - **Data & Cloud:** PostgreSQL · Supabase · Vercel · Docker · CI/CD
 - **SEO:** technical & on-page SEO · Payload CMS · Semrush
 
